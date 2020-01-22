@@ -1,5 +1,6 @@
 tmp/*
 tmp/todo.txt
 *.txt
+*.zip
 
 
